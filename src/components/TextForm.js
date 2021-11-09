@@ -56,7 +56,7 @@ export default function TextForm(props) {
             borderColor: props.mode === 'dark' ? '#444c56' : '#539bf5',
           }}
         >
-          Uppercase
+          UPPERCASE
         </button>
         <button
           disabled={text.length === 0}
