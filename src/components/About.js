@@ -34,8 +34,8 @@ export default function About(props) {
             data-bs-parent='#accordionExample'
           >
             <div className='accordion-body' style={myStyle}>
-              Textutils gives you a way to analyze your text quickly and
-              efficiently. Be it word count, character count or
+              Textutils is a React application which leverages the power to analyze your text quickly and
+              efficiently. Be it word count, character count or case conversion.
             </div>
           </div>
         </div>
